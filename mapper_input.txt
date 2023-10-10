@@ -1,0 +1,16 @@
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 0, "start_col": 0}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 0, "start_col": 4}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 0, "start_col": 8}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 0, "start_col": 12}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 4, "start_col": 0}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 4, "start_col": 4}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 4, "start_col": 8}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 4, "start_col": 12}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 8, "start_col": 0}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 8, "start_col": 4}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 8, "start_col": 8}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 8, "start_col": 12}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 12, "start_col": 0}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 12, "start_col": 4}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 12, "start_col": 8}
+{"msize": 20, "subsize": 5, "pos1x": 70736, "pos1y": 49119, "server": "Google", "style": "s", "zoom": 17, "start_row": 12, "start_col": 12}
