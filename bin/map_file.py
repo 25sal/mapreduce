@@ -49,7 +49,9 @@ if __name__ == '__main__':
     N = 4
     matrix_size = 20
     # Calculate the size of each submatrix
-    submatrix_size = 5
+    submatrix_size = 9
+
+    matrix_size = matrix_size + (submatrix_size - matrix_size % 9 )
 
     subm_m_size = matrix_size/submatrix_size
 
